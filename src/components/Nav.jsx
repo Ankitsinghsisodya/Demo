@@ -4,11 +4,11 @@ import { FaBars, FaTimes } from "react-icons/fa";
 function Nav() {
   const [open, setOpen] = useState(false);
   return (
-    <div className=" relative flex gap-y-2 flex-col items-center justify-center bg-[url('/src/assets/image3-1.png')] bg-cover bg-center bg-no-repeat  min-w-screen min-h-[5%] md:min-h-[25%] p-4 md:p-10 bg-[#000818] ">
+    <div className=" relative flex gap-y-2 flex-col items-center justify-center bg-[url('/assets/image3-1.png')] bg-cover bg-center bg-no-repeat  min-w-screen min-h-[5%] md:min-h-[25%] p-4 md:p-10 bg-[#000818] ">
       <nav class="min-w-[99%] flex items-center justify-between rounded-r-4xl rounded-l-4xl border   h-16 bg-gradient-to-r from-[#3759e2] to-[#c0bfbf] rounded-lg  border-white/10 backdrop-blur-[11.50px] text-white p-3 mb-28 w-full">
         <div className="flex justify-center items-center pt-2">
           <img
-            src="src/assets/IEEE.png"
+            src="/assets/IEEE.png"
             alt=""
             className="w-32 h-12 object-contain"
           />

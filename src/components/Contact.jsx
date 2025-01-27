@@ -5,7 +5,7 @@ import { FaMessage } from "react-icons/fa6";
 function Contact() {
   return (
     <div className="bg-[#000818] w-full">
-      <div className="bg-[url('/src/assets/image3-1.png')] bg-cover bg-center bg-no-repeat  w-full h-36 flex justify-center items-center">
+      <div className="bg-[url('/assets/image3-1.png')] bg-cover bg-center bg-no-repeat  w-full h-36 flex justify-center items-center">
         <div className="text-center font-bold text-6xl text-white  ">
           Contact Us
         </div>

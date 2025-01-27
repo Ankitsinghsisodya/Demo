@@ -10,7 +10,7 @@ function Alumni() {
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, provident.",
       email: "ankitsingh24012005@gmail.com",
       linkedin: "www.linkedin.com",
-      img: "src/assets/Ankit_lecture.jpeg",
+      img: "assets/Ankit_lecture.jpeg",
     },
     {
       name: "Ankit Sisodya",
@@ -19,7 +19,7 @@ function Alumni() {
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, provident.",
       email: "ankitsingh24012005@gmail.com",
       linkedin: "www.linkedin.com",
-      img: "src/assets/Ankit_lecture.jpeg",
+      img: "assets/Ankit_lecture.jpeg",
     },
     {
       name: "Ankit Sisodya",
@@ -28,7 +28,7 @@ function Alumni() {
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, provident.",
       email: "ankitsingh24012005@gmail.com",
       linkedin: "www.linkedin.com",
-      img: "src/assets/Ankit_lecture.jpeg",
+      img: "assets/Ankit_lecture.jpeg",
     },
     {
       name: "Ankit Sisodya",
@@ -37,7 +37,7 @@ function Alumni() {
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, provident.",
       email: "ankitsingh24012005@gmail.com",
       linkedin: "www.linkedin.com",
-      img: "src/assets/Ankit_lecture.jpeg",
+      img: "assets/Ankit_lecture.jpeg",
     },
     {
       name: "Ankit Sisodya",
@@ -46,7 +46,7 @@ function Alumni() {
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, provident.",
       email: "ankitsingh24012005@gmail.com",
       linkedin: "www.linkedin.com",
-      img: "src/assets/Ankit_lecture.jpeg",
+      img: "assets/Ankit_lecture.jpeg",
     },
     {
       name: "Ankit Sisodya",
@@ -55,7 +55,7 @@ function Alumni() {
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, provident.",
       email: "ankitsingh24012005@gmail.com",
       linkedin: "www.linkedin.com",
-      img: "src/assets/Ankit_lecture.jpeg",
+      img: "assets/Ankit_lecture.jpeg",
     },
     {
       name: "Ankit Sisodya",
@@ -64,7 +64,7 @@ function Alumni() {
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, provident.",
       email: "ankitsingh24012005@gmail.com",
       linkedin: "www.linkedin.com",
-      img: "src/assets/Ankit_lecture.jpeg",
+      img: "assets/Ankit_lecture.jpeg",
     },
     {
       name: "Ankit Sisodya",
@@ -73,12 +73,12 @@ function Alumni() {
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, provident.",
       email: "ankitsingh24012005@gmail.com",
       linkedin: "www.linkedin.com",
-      img: "src/assets/Ankit_lecture.jpeg",
+      img: "assets/Ankit_lecture.jpeg",
     },
   ];
   return (
     <div className="bg-[#000818]  w-full">
-      <div className="bg-[url('/src/assets/image3-1.png')] bg-cover bg-center bg-no-repeat  w-full h-36 flex justify-center items-center">
+      <div className="bg-[url('/assets/image3-1.png')] bg-cover bg-center bg-no-repeat  w-full h-36 flex justify-center items-center">
         <div className="text-center font-extrabold text-6xl text-white ">
           Alumni
         </div>
