@@ -68,9 +68,9 @@ function Team() {
       </div>
       <div className="flex justify-center">
         {" "}
-        <button className=" bg-[#e9eef4] rounded-3xl border p-3 mt-4 ">
+        <button className=" bg-[#E9EEF5] opacity-[13%] rounded-3xl border p-3 mt-4 ">
           {" "}
-          <div className="text-center text-white text-xl font-bold font-['Arial'] ">
+          <div className="text-center text-[#333333]  text-xl font-bold font-['Arial'] ">
             Join the Team
           </div>
         </button>
@@ -86,14 +86,14 @@ function Team() {
               />
             </div>
             <div className="pl-2">
-              <div className="text-gray-400">{member.name}</div>
-              <div className="text-[#4f6dff]">{member.position}</div>
+              <h1 className="text-[#FFFFFF] font-['Arial Rounded MT Bold'] text-2xl">{member.name}</h1>
+              <div className="text-[#4f6dff] font-['Montserrat'] text-lg">{member.position}</div>
               <div className="flex gap-x-2">
                 <span>
-                  <FaLinkedin className="text-white" />{" "}
+                  <FaLinkedin className="text-gray-400 bg-black" />{" "}
                 </span>
                 <span>
-                  <FaEnvelope className="text-white"  />
+                  <FaEnvelope className="text-gray-400 bg-black"  />
                 </span>
               </div>
             </div>
