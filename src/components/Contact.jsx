@@ -10,7 +10,7 @@ function Contact() {
           Contact Us
         </div>
       </div>
-      <div className="flex w-full p-9 md:p-32 gap-x-2 md:gap-x-16">
+      <div className="flex flex-col md:flex-row w-full p-9 md:p-32 gap-x-2 md:gap-x-16">
         <div className=" md:ml-6 p-6 min-w-[60%] max-h-96 h-120 bg-gradient-to-r from-[#0059ff] to-[#02112c] rounded-md border-[#79caf0]/10 backdrop-blur-[170px] ">
           <div className="flex items-center gap-x-2">
             <FaMessage className="text-4xl text-[#5a88ff]" />
@@ -40,7 +40,7 @@ function Contact() {
           </div>
         </div>
         <div className="w-1 h-auto my-4 bg-gray-300/20"></div>
-        <div className="flex flex-col justify-center ml-1 md:ml-10 gap-y-3">
+        <div className="flex  flex-col justify-center ml-1 md:ml-10 gap-y-3">
           <div className="font-extrabold text-3xl text-[#5a88ff]">Contact</div>
           <div>
             <div className="text-white">Phone Number</div>
